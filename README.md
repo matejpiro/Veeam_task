@@ -1,5 +1,5 @@
 # Veeam_task
-A script to synchronize two files or folders written in Python. 
+A script in Python to synchronize two files or folders. 
 
 A periodical synchronization of two files (or folders, source and replica). User can choose the time of the synchronization period. 
 The synchronization can be stopped via keyboard input.
